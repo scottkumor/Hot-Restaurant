@@ -1,0 +1,24 @@
+{
+  "name": "15-hotrestaurant",
+  "version": "1.0.0",
+  "description": "npm init",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "hi",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/scottkumor/Hot-Restaurant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottkumor/Hot-Restaurant/issues"
+  },
+  "homepage": "https://github.com/scottkumor/Hot-Restaurant#readme"
+}
